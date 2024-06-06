@@ -3,7 +3,7 @@
 
 
 ## Sobre Mim
-👀 Estou interessado em aprender e contribuir para projetos de código aberto. Adoro explorar novas tecnologias e aplicá-las em projetos inovadores.
+👀 Estou interessado em aprender e contribuir em projetos. Tenho o sonho de me tornar um desenvolvedor front-end e estou em busca de uma vaga no mercado para adquirir experiência.
 
 ## Conecte-se Comigo
 <div>
