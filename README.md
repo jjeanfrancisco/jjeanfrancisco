@@ -1,6 +1,6 @@
 # Bem-vindo ao Perfil do DeveloperJean 👋
 
-!Imagem de Capa
+!
 
 ## Sobre Mim
 👀 Estou interessado em aprender e contribuir para projetos de código aberto. Adoro explorar novas tecnologias e aplicá-las em projetos inovadores.
@@ -22,8 +22,8 @@
 ## Estatísticas do GitHub
 <div>
   <a href="https://github.com/DeveloperJean">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeveloperJean&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperJean&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjeanfrancisco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjeanfrancisco&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Como Contribuir
