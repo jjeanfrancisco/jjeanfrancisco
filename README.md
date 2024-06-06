@@ -1,6 +1,6 @@
 # Bem-vindo ao Perfil do DeveloperJean 👋
 
-!
+
 
 ## Sobre Mim
 👀 Estou interessado em aprender e contribuir para projetos de código aberto. Adoro explorar novas tecnologias e aplicá-las em projetos inovadores.
