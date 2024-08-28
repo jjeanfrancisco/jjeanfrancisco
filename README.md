@@ -29,5 +29,4 @@
 ## Como Contribuir
 💡 Se você tem sugestões de como melhorar algum projeto, sinta-se à vontade para abrir uma `issue` ou fazer um `pull request`. Todas as contribuições são bem-vindas!
 
-## Licença
-Este perfil está sob a licença MIT.
+
