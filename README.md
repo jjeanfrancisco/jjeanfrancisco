@@ -3,46 +3,50 @@
 # Jean Andrade
 ### IT Analyst · Infrastructure · Support · Information Security
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00BCB4&center=true&vCenter=true&width=600&lines=IT+Analyst+%7C+Field+Service+%7C+Positivo+Tecnologia;Zabbix+%7C+Grafana+%7C+Windows+%7C+Linux;Oracle+Cloud+Infrastructure+2025+Certified;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00BCB4&center=true&vCenter=true&width=650&lines=IT+Analyst+%7C+Field+Service+%7C+Positivo+Tecnologia;Zabbix+%7C+Grafana+%7C+Windows+Server+%7C+Linux;Oracle+Cloud+Infrastructure+2025+Certified;Cybersecurity+%7C+Networking+%7C+Cloud+Computing;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jean--fmandrade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-fm-andrade/)
-[![Discord](https://img.shields.io/badge/Discord-Comunidade-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/feMtgUTyba)
+[![Discord](https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/feMtgUTyba)
 [![GitHub](https://img.shields.io/badge/GitHub-jjeanfrancisco-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jjeanfrancisco)
-[![Localização](https://img.shields.io/badge/📍_Ponta_Grossa-Paraná,_Brasil-00BCB4?style=for-the-badge)](https://maps.google.com/?q=Ponta+Grossa,+PR)
+[![Location](https://img.shields.io/badge/📍_Ponta_Grossa-Paraná,_Brazil-00BCB4?style=for-the-badge)](https://maps.google.com/?q=Ponta+Grossa,+PR)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-Profissional de **Tecnologia da Informação** com experiência em suporte técnico, infraestrutura, monitoramento de sistemas e segurança da informação. Atualmente atuando como **Técnico em Informática na Positivo Tecnologia**, com atendimentos presenciais e field service em diferentes cidades.
+IT professional with solid experience in **technical support**, **IT infrastructure**, **system monitoring**, and **information security**. Currently working as an **IT Technician at Positivo Tecnologia**, providing field service and on-site support across multiple cities.
 
-Formado em **Análise e Desenvolvimento de Sistemas** e com duas pós-graduações em **Segurança da Informação** e **Gestão de Riscos e Cibersegurança**. Certificado **Oracle Cloud Infrastructure 2025**.
+Graduated in **Systems Analysis & Development** and holding two postgraduate degrees in **Information Security** and **Cybersecurity & Risk Management**. Certified **Oracle Cloud Infrastructure 2025 Associate**.
 
-Em paralelo, estou desenvolvendo habilidades em **desenvolvimento web e Python**, com o objetivo de expandir minha atuação para a área de desenvolvimento de software.
+Alongside my infrastructure career, I'm actively developing skills in **web development and Python**, aiming to expand into software development roles.
 
 ```yaml
 name: Jean Andrade
-location: Ponta Grossa, PR – Brasil
+location: Ponta Grossa, PR – Brazil
 current_role: IT Analyst @ Positivo Tecnologia
 education:
-  - B.Tech em Análise e Desenvolvimento de Sistemas – UNOPAR
-  - Pós-Grad. Segurança da Informação – CENES
-  - Pós-Grad. Gestão de Riscos e Cibersegurança – Faculdade Focus
+  - B.Tech in Systems Analysis & Development – UNOPAR (2021–2023)
+  - Postgrad. in Information Security – CENES (2023–2024)
+  - Postgrad. in Cybersecurity & Risk Management – Faculdade Focus (2023–2024)
 certifications:
   - Oracle Cloud Infrastructure 2025 Foundations Associate
-languages: [Português (nativo), Inglês (intermediário), Espanhol (básico)]
-interests: [Infraestrutura, Cibersegurança, Cloud, Web Dev, Open Source]
+languages:
+  - Portuguese: Native
+  - English: Intermediate
+  - Spanish: Basic
+interests: [Infrastructure, Cybersecurity, Cloud Computing, Web Dev, Open Source]
+open_to: [Remote work, Relocation, International opportunities]
 ```
 
 ---
 
-## 🛠️ Stack & Ferramentas
+## 🛠️ Tech Stack & Tools
 
-### 💻 Infraestrutura & Suporte
+### 💻 Infrastructure & Support
 ![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
@@ -50,12 +54,12 @@ interests: [Infraestrutura, Cibersegurança, Cloud, Web Dev, Open Source]
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### ☁️ Cloud & Segurança
+### ☁️ Cloud & Security
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Networking](https://img.shields.io/badge/TCP/IP_Networking-00BCB4?style=for-the-badge&logo=cisco&logoColor=white)
 ![Security](https://img.shields.io/badge/Information_Security-1C2B3A?style=for-the-badge&logo=hackthebox&logoColor=00BCB4)
 
-### 🌐 Desenvolvimento (em evolução)
+### 🌐 Development (growing)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -65,17 +69,18 @@ interests: [Infraestrutura, Cibersegurança, Cloud, Web Dev, Open Source]
 
 ---
 
-## 🏆 Certificações
+## 🏆 Certifications
 
-| Certificação | Instituição | Ano |
+| Certification | Institution | Year |
 |---|---|---|
 | 🏅 Oracle Cloud Infrastructure 2025 Foundations Associate | Oracle | 2025 |
-| 🔒 Pós-Graduação em Gestão de Riscos e Cibersegurança | Faculdade Focus | 2024 |
-| 🔐 Pós-Graduação em Segurança da Informação | CENES | 2024 |
-| 🐍 Fundamentos de Linguagem Python | DIO | 2024 |
-| 🗂️ Versionamento Git e GitHub | DIO | 2024 |
-| 🌐 HTML, CSS e JavaScript | Curso em Vídeo | 2023 |
-| 💡 Lógica de Programação | — | 2023 |
+| 🔒 Postgrad. – Cybersecurity & Risk Management | Faculdade Focus | 2024 |
+| 🔐 Postgrad. – Information Security | CENES | 2024 |
+| 🐍 Python Language Fundamentals | DIO | 2024 |
+| 🗂️ Git & GitHub Version Control | DIO | 2024 |
+| 🌐 HTML, CSS & JavaScript | Curso em Vídeo | 2023 |
+| 💡 Programming Logic | — | 2023 |
+| 🦺 Workplace Safety | — | 2023 |
 
 ---
 
@@ -94,44 +99,46 @@ interests: [Infraestrutura, Cibersegurança, Cloud, Web Dev, Open Source]
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Work Experience
 
 ```
-Positivo Tecnologia        →  Técnico em Informática · Field Service   (ago/2025 – atual)
-ZOOM Tecnologia            →  Técnico de TI Júnior · Terceirizado MP   (jan/2025 – fev/2025)
-RP Info Sistemas           →  Analista de Suporte de Sistemas           (set/2024 – nov/2024)
-PLSS Soluções              →  Técnico de TI Júnior · Infra/Monitoring   (mai/2021 – mai/2024)
+Positivo Tecnologia   →  IT Technician · Field Service              (Aug 2025 – Present)
+ZOOM Tecnologia       →  Junior IT Technician · Gov. Outsourced     (Jan 2025 – Feb 2025)
+RP Info Sistemas      →  Systems Support Analyst                    (Sep 2024 – Nov 2024)
+PLSS Soluções         →  Junior IT Technician · Infra & Monitoring  (May 2021 – May 2024)
 ```
 
 ---
 
-## 🎯 Objetivos Atuais
+## 🎯 Currently Working On
 
-- 🔭 Aprofundando conhecimentos em **desenvolvimento web (JS/Python)**
-- 🌱 Estudando **Cloud Computing** e práticas de **DevOps**
-- 🚀 Buscando contribuir em projetos **open source**
-- 📚 Explorando **automação de infraestrutura** com scripts e ferramentas modernas
+- 🔭 Deepening skills in **JavaScript and Python** for web development
+- 🌱 Studying **Cloud Architecture** and **DevOps** practices
+- 🚀 Looking to contribute to **open source** projects
+- 📚 Exploring **infrastructure automation** with scripting and modern tooling
+- 🌍 Preparing for **international opportunities** in IT
 
 ---
 
-## 🤝 Vamos Colaborar?
+## 🤝 Let's Connect
 
-Aberto a conversas sobre tecnologia, infraestrutura, segurança e desenvolvimento!
-Se quiser sugerir melhorias em algum projeto, fique à vontade para abrir uma **issue** ou enviar um **pull request**.
+Always happy to talk about tech, infrastructure, security, or development!
+Feel free to open an **issue** or submit a **pull request** on any of my projects.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Me_chama_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-fm-andrade/)
-[![Discord](https://img.shields.io/badge/Entre_no_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/feMtgUTyba)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-fm-andrade/)
+[![Discord](https://img.shields.io/badge/Join_my_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/feMtgUTyba)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jean.francisco.miguel.de.andrade@hotmail.com)
 
 <br>
 
-![Visitors](https://komarev.com/ghpvc/?username=jjeanfrancisco&color=00BCB4&style=for-the-badge&label=Visitantes+do+Perfil)
+![Visitors](https://komarev.com/ghpvc/?username=jjeanfrancisco&color=00BCB4&style=for-the-badge&label=Profile+Views)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>⚡ <i>"A tecnologia é melhor quando aproxima as pessoas."</i> — Matt Mullenweg</sub>
+  <sub>⚡ <i>"Technology is best when it brings people together."</i> — Matt Mullenweg</sub>
 </div>
